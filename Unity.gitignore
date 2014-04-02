@@ -2,8 +2,9 @@
 # Unity generated #
 # =============== #
 .DS_Store
-Library
-Temp
+[Ll]ibrary
+[Oo]bj
+[Tt]emp
 *.pidb
 *.unityproj
 *.sln
@@ -12,6 +13,7 @@ Temp
 *.pdb
 *.FileListAbsolute.txt
 *Reference.cache
+
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
